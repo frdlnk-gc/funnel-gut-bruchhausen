@@ -1,0 +1,44 @@
+[
+ {
+  "name": "V03-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "raw/f2-trecker-beregnung-full.jpg",
+  "primary": "#4B7A25",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN DÜSSELDORF (40629)",
+  "headline": [
+   "Landwirtschaftlicher",
+   "Mitarbeiter (m/w/d)"
+  ],
+  "checkliste": [
+   "Unbefristet in Vollzeit",
+   "Wohnraum-Angebot & Umzugshilfe",
+   "Moderne Landtechnik"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.6,
+   0.45
+  ]
+ },
+ {
+  "name": "V03-checkliste",
+  "format": "9x16",
+  "logo": "logo-hd.png",
+  "foto": "raw/f7-ernte-maschine-full.jpg",
+  "primary": "#4B7A25",
+  "zoom_9x16": 1.0,
+  "fokus_9x16": [
+   0.7,
+   0.3
+  ],
+  "kicker": "DÜSSELDORF (40629)",
+  "headline": [
+   "Landwirtschaftlicher",
+   "Mitarbeiter (m/w/d)"
+  ],
+  "cta": "Job-Angebot in 60 Sek. erhalten"
+ }
+]

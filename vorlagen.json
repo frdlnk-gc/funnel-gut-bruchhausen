@@ -1,0 +1,56 @@
+{
+ "firma": "Gut Bruchhausen",
+ "p": "#4B7A25",
+ "stelle": "Landwirtschaftlicher Mitarbeiter (m/w/d)",
+ "ort": "Düsseldorf",
+ "umg": "Düsseldorf · Ratingen · Mettmann · Erkrath",
+ "zentrum": [
+  51.2543666,
+  6.9080382
+ ],
+ "r_sub": "Für alle aus Ratingen, Mettmann, Erkrath und Umgebung.",
+ "r_avatar": [
+  "raw/f1-rollrasenernte-full.jpg",
+  "62% 42%",
+  "260%"
+ ],
+ "s_photo": [
+  "raw/f3-trecker-feld-full.jpg",
+  "50% 40%"
+ ],
+ "sticker": [
+  [
+   "Unbefristet",
+   60,
+   340,
+   -4,
+   "linear-gradient(135deg,#FFFFFF,#E9EEF2)",
+   "#1B1B1B"
+  ],
+  [
+   "Wohnraum-Angebot",
+   500,
+   430,
+   3,
+   "linear-gradient(135deg,#FFE88A,#FFC531)",
+   "#1B1B1B"
+  ],
+  [
+   "Getränke-Flatrate",
+   60,
+   930,
+   -3,
+   "linear-gradient(135deg,#D6ECFF,#8EC5FF)",
+   "#0B2A4A"
+  ],
+  [
+   "Umzugsunterstützung",
+   400,
+   1050,
+   2,
+   "linear-gradient(135deg,#FFFFFF,#E9EEF2)",
+   "#1B1B1B"
+  ]
+ ],
+ "logo": "logo-hd.png"
+}

@@ -1,0 +1,37 @@
+[
+ {
+  "name": "V04-collage",
+  "logo": "logo-weiss.png",
+  "fotos": [
+   "raw/f1-rollrasenernte-full.jpg",
+   "raw/f2-trecker-beregnung-full.jpg",
+   "raw/f5-rasensode-full.jpg"
+  ],
+  "fokus": [
+   [
+    0.6,
+    0.45
+   ],
+   [
+    0.6,
+    0.45
+   ],
+   [
+    0.5,
+    0.6
+   ]
+  ],
+  "primary": "#4B7A25",
+  "headline": [
+   "Landwirtschaftlicher",
+   "Mitarbeiter"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "ort": "Düsseldorf (40629) & Umgebung",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ }
+]

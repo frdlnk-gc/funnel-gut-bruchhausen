@@ -1,0 +1,150 @@
+{
+ "firma": "Gut Bruchhausen",
+ "stelle": "Landwirtschaftlicher Mitarbeiter (m/w/d)",
+ "ort": "Düsseldorf",
+ "plz": "40629",
+ "branche": "landwirtschaft",
+ "stelle_id": 1466,
+ "firma_genitiv": "von Gut Bruchhausen",
+ "farbe_primary": "#4B7A25",
+ "farbe_secondary": "#2B2B2B",
+ "region_badge": "Düsseldorf & Umgebung",
+ "benefit_top": "Unbefristet & Wohnraum-Angebot",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Wohnraum-Angebot (kostenlos oder entgeltlich)",
+  "Umzugsunterstützung bei Standortwechsel",
+  "Fahrtkostenzuschuss",
+  "Getränke-Flatrate",
+  "Flache Hierarchien",
+  "Freundliches Arbeitsklima"
+ ],
+ "aufgaben": [
+  "Du pflegst und erntest unseren Rollrasen – von der Fläche bis zur fertigen Rolle",
+  "Du lieferst den Rollrasen zu unseren Kunden aus",
+  "Du packst bei der klassischen Hofarbeit bis hin zur Feldarbeit mit an",
+  "Du arbeitest mit moderner Landtechnik – falls du sie noch nicht kennst, lernst du sie bei uns kennen"
+ ],
+ "anforderung": "Eine Ausbildung im grünen Bereich bzw. in der Landwirtschaft, gern Berufserfahrung aus der Landwirtschaft, dem GaLaBau oder einem anderen Handwerk. Führerschein Klasse B und T vorausgesetzt, LKW-Führerschein und Erfahrung mit Ladetechnik wünschenswert. Dazu handwerkliches Geschick, Zielstrebigkeit und Zuverlässigkeit.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Landwirt / Landwirtschaft",
+   "icon": "🌾",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Garten- und Landschaftsbau",
+   "icon": "🌳",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderes Handwerk",
+   "icon": "🔧",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    },
+    {
+     "label": "Ohne Berufserfahrung",
+     "icon": "🌱"
+    }
+   ]
+  }
+ ],
+ "fuehrerschein_optionen": [
+  {
+   "label": "Ja, Klasse B + T + LKW (C/CE)",
+   "icon": "🚛"
+  },
+  {
+   "label": "Ja, Klasse B + T",
+   "icon": "🚜"
+  },
+  {
+   "label": "Nur Klasse B",
+   "icon": "🚗"
+  },
+  {
+   "label": "Nein",
+   "icon": "❌"
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "1914",
+    "label": "gegründet"
+   }
+  ],
+  "text": "Gut Bruchhausen ist ein seit mehreren Generationen geführter landwirtschaftlicher Betrieb in Familienbesitz mit dem Schwerpunkt Rollrasenproduktion. Daneben betreibt der Hof nachhaltigen Ackerbau mit fünfgliedriger Fruchtfolge und pflugloser Bewirtschaftung – Standort ist eine alte historische Gutsanlage."
+ },
+ "kunde_tab": "56 Gut Bruchhausen",
+ "quelle": "https://gut-bruchhausen.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Düsseldorf (40629)"
+ },
+ "hero_bild": "img/hero-rollrasenernte.jpg",
+ "bilder": [
+  "img/f1-rollrasenernte.jpg",
+  "img/f2-trecker-beregnung.jpg",
+  "img/f7-ernte-maschine.jpg",
+  "img/f3-trecker-feld.jpg",
+  "img/f4-beregnung.jpg",
+  "img/f8-rasenfeld.jpg"
+ ],
+ "meta_geo": [
+  "Bruchhausen 6, 40629 Düsseldorf"
+ ]
+}
